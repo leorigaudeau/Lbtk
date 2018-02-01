@@ -1,0 +1,7 @@
+start scripts\settings.vbs
+
+
+
+
+
+
